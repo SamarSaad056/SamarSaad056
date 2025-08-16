@@ -45,13 +45,13 @@
 <div>
   <p>
     <strong>Enhanced Hospital Website:</strong><br>
-    Enhanced the hospital’s main website by optimizing frontend architecture with modular Vue components. 
+    Enhanced the Royal Commission hospital’s main website by optimizing frontend architecture with modular Vue components. 
     Applied standardized platform code and performance optimization practices to ensure compliance with 
     the unified government design system and DGA web development standards.
   </p>
   <div align="center">
-    <img src="https://github.com/SamarSaad056/SamarSaad056/blob/main/RCHUI.jpg" alt="Hospital Website Project" width="600"/>
-   
+    <img src="https://github.com/SamarSaad056/SamarSaad056/blob/main/RCHUI.jpg" alt="Hospital Website Project" width="400"/>
+  
   </div>
 </div>
 
@@ -63,8 +63,9 @@
     <strong>Wateen Digital Health Platform:</strong><br>
     Developed responsive frontend for the Wateen digital health platform using Vue.js and integrated with RESTful APIs.
   </p>
-   <br><br>
-    <img src="https://github.com/SamarSaad056/SamarSaad056/blob/main/RCHUI2.png" alt="Hospital Website Project 2" width="600"/>
+  <div align="center">
+    <img src="https://github.com/SamarSaad056/SamarSaad056/blob/main/RCHUI2.png" alt="Hospital Website Project 2" width="400"/>
+  </div>
 </div>
 
 <br>
@@ -90,11 +91,13 @@
   <div align="center">
     <img src="https://github.com/SamarSaad056/SamarSaad056/blob/main/SDAUI1.jpg" alt="E-commerce Project 1" width="400"/>
     <img src="https://github.com/SamarSaad056/SamarSaad056/blob/main/SDAUI2.jpg" alt="E-commerce Project 2" width="400"/>
-    <br><br>
+  </div>
+  <div align="center">
     <img src="https://github.com/SamarSaad056/SamarSaad056/blob/main/SDAUI3.jpg" alt="E-commerce Project 3" width="400"/>
     <img src="https://github.com/SamarSaad056/SamarSaad056/blob/main/SDAUI4.jpg" alt="E-commerce Project 4" width="400"/>
   </div>
 </div>
+
 
 
 
