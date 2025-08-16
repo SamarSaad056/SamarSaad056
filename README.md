@@ -38,9 +38,63 @@
 
 <br><br>
 <div align="center">
-<h4>My Recent Works:</h4>
-<br>
-<img src="https://github.com/SamarSaad056/SamarSaad056/blob/main/RCHUI.jpg" alt="Recent Work 1" width="600"/>
+  <h4>My Recent Works:</h4>
 </div>
+
+<!-- Hospital Website Project -->
+<div>
+  <p>
+    <strong>Enhanced Hospital Website:</strong><br>
+    Enhanced the hospital’s main website by optimizing frontend architecture with modular Vue components. 
+    Applied standardized platform code and performance optimization practices to ensure compliance with 
+    the unified government design system and DGA web development standards.
+  </p>
+  <div align="center">
+    <img src="https://github.com/SamarSaad056/SamarSaad056/blob/main/RCHUI.jpg" alt="Hospital Website Project" width="600"/>
+   
+  </div>
+</div>
+
+<br>
+
+<!-- Wateen Platform Project -->
+<div>
+  <p>
+    <strong>Wateen Digital Health Platform:</strong><br>
+    Developed responsive frontend for the Wateen digital health platform using Vue.js and integrated with RESTful APIs.
+  </p>
+   <br><br>
+    <img src="https://github.com/SamarSaad056/SamarSaad056/blob/main/RCHUI2.png" alt="Hospital Website Project 2" width="600"/>
+</div>
+
+<br>
+
+<!-- E-commerce Platform Project -->
+<div>
+  <p>
+    <strong>Game E-commerce Platform:</strong><br>
+    Designing and implementing RESTful APIs to ensure seamless client-server communication and integrating secure 
+    user authentication to protect accounts and ensure data privacy. Additionally, documented and tested the APIs 
+    thoroughly using Swagger and Postman, enhancing the platform's reliability, maintainability, and performance.
+  </p>
+  
+  <p><u>Key Features:</u></p>
+  <ul>
+    <li><b>ChatBot:</b> Provides recommendations, game info, and top-rated games.</li>
+    <li><b>Filters:</b> Filter games by <i>Price</i> or <i>Name</i>.</li>
+    <li><b>Admin Dashboard:</b> Manage products and users.</li>
+    <li><b>User Registration & Authentication:</b> Secure login and signup.</li>
+    <li><b>Shopping Cart:</b> Add/remove games, adjust quantities, and view total price.</li>
+  </ul>
+  
+  <div align="center">
+    <img src="https://github.com/SamarSaad056/SamarSaad056/blob/main/SDAUI1.jpg" alt="E-commerce Project 1" width="400"/>
+    <img src="https://github.com/SamarSaad056/SamarSaad056/blob/main/SDAUI2.jpg" alt="E-commerce Project 2" width="400"/>
+    <br><br>
+    <img src="https://github.com/SamarSaad056/SamarSaad056/blob/main/SDAUI3.jpg" alt="E-commerce Project 3" width="400"/>
+    <img src="https://github.com/SamarSaad056/SamarSaad056/blob/main/SDAUI4.jpg" alt="E-commerce Project 4" width="400"/>
+  </div>
+</div>
+
 
 
