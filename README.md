@@ -21,7 +21,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-<img src="https://img.icons8.com/external-flat-juicy-fish/64/000000/external-rest-api-internet-of-things-flat-flat-juicy-fish.png" alt="restful api" width="40" height="40"/>
 
 <br><br>
 <strong>Tools & Databases:</strong><br><br>
