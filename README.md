@@ -67,7 +67,7 @@
     <img src="https://github.com/SamarSaad056/SamarSaad056/blob/main/RCHUI2.png" 
          alt="Hospital Website Project 2" 
          width="400" 
-         height="300"/>
+         height="600"/>
   </div>
 </div>
 
