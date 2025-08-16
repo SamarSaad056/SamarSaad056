@@ -1,19 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samar Saad</h1>
 <h3 align="center">Full Stack Web Developer</h3>
-Developed responsive frontend for the Wateen digital health platform using Vue.js and integrated with
-RESTful APIs.
-• Redesigned and integrated the patient referral app into the hospital’
-s internal portal using Vue.js, improving
-accessibility and UX.
-• Enhanced the hospital’
-s main website by optimizing frontend architecture with modular Vue components.
-• Integrated the medical file viewing service into the Tawakkalna app using Vue.js and .NET, enabling secure
-access to patient records.
-• Applied standardized platform code and performance optimization practices to ensure compliance with the
-unified government design system and DGA web development standards.
-<div align="center">
-  Hey there! I'm a passionate application developer who loves building intuitive and dynamic web apps. 
-  <br> I enjoy solving problems with clean code and creating seamless user experiences.
+<br>During my Tamheer internship at IT Health in Royal Commission for Jubail and Yanbu, I developed responsive frontends for the Wateen digital health platform and the hospital’s internal portal using Vue.js. I integrated RESTful APIs, enhanced the hospital website with modular Vue components, and securely connected medical file viewing services to the Tawakkalna app with Vue.js and .NET ,all while ensuring compliance with DGA web standards. 
 </div>
 
 <br>
