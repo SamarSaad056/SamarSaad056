@@ -1,6 +1,19 @@
-<h1 align="center">Hi 👋, I'm Samar Saad</h1>
-<h3 align="center">Full Stack Web Developer</h3>
-<br>During my Tamheer internship at IT Health in Royal Commission for Jubail and Yanbu, I developed responsive frontends for the Wateen digital health platform and the hospital’s internal portal using Vue.js. I integrated RESTful APIs, enhanced the hospital website with modular Vue components, and securely connected medical file viewing services to the Tawakkalna app with Vue.js and .NET ,all while ensuring compliance with DGA web standards. 
+<br>
+<div align="center">
+  <p>
+    <strong>Hi 👋, I'm Samar Saad</strong><br>
+    I am a Web Developer with hands-on experience in building full-stack applications. 
+    During the Saudi Digital Academy Software Development Bootcamp, I developed an e-commerce system using React.js and .NET, 
+    applying object-oriented programming, RESTful APIs, database integration with PostgreSQL, and secure deployment on Render.
+  </p>
+
+  <p>
+    During my Tamheer internship at IT Health in the Royal Commission for Jubail and Yanbu, 
+    I developed responsive frontends for the Wateen digital health platform and the hospital’s internal portal using Vue.js. 
+    I integrated RESTful APIs, enhanced the hospital website with modular Vue components, 
+    and securely connected medical file viewing services to the Tawakkalna app with Vue.js and .NET, 
+    all while ensuring compliance with DGA web standards.
+  </p>
 </div>
 
 <br>
